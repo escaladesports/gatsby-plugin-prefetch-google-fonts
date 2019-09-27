@@ -35,3 +35,6 @@ coverage
 # Temporary
 temp
 temp-*
+
+# Jetbrains products
+.idea
