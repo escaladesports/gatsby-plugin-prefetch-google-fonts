@@ -39,3 +39,6 @@ plugins/dist
 # Temporary
 temp
 temp-*
+
+# Jetbrains products
+.idea
